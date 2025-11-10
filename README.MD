@@ -35,25 +35,26 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
-## 💻 Tecnologias utilizadas no projeto
+## 💻 Tecnologias utilizadas no projeto by ME
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Gemini](https://gemini.google.com/app?hl=pt-BR) 
+- [Speechify Studio](https://speechify.com/pt-br/studio/?srsltid=AfmBOor78IU1ORU-gOgDJSNQuTUdO-CcEJqZrAjWgHuovmvh7umUDUGK)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [Audacity](https://www.audacityteam.org/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Roteiro gerado via genini
+- Audio gerado pela Speechify Studio
+- Gemini Para gerar imagens do podcast
+- Capcut para adicionar efeitos de aúdio e adicionar sons de fundo
+- Audacity exportar o áudio.
 
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Link do Capcut](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
 ## 🛠️ Instruções de execução
