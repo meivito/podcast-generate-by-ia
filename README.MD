@@ -44,7 +44,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via genini
+- Roteiro gerado via Gemini
 - Audio gerado pela Speechify Studio
 - Gemini Para gerar imagens do podcast
 - Capcut para adicionar efeitos de aúdio e adicionar sons de fundo
